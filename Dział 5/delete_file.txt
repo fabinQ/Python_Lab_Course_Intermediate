@@ -1,0 +1,7 @@
+
+Action delete_file executed on /Users/fabin/Library/Mobile Documents/com~apple~CloudDocs/Python/udemy Srednio zaawansowany/delete_file.txt on 2023-02-26 21:36:39
+Action delete_file executed on /Users/fabin/Library/Mobile Documents/com~apple~CloudDocs/Python/udemy Srednio zaawansowany/delete_file.txt on 2023-02-26 21:36:39
+Action delete_file executed on /Users/fabin/Library/Mobile Documents/com~apple~CloudDocs/Python/udemy Srednio zaawansowany/delete_file.txt on 2023-02-26 21:37:50
+Action delete_file executed on /Users/fabin/Library/Mobile Documents/com~apple~CloudDocs/Python/udemy Srednio zaawansowany/delete_file.txt on 2023-02-26 21:37:50
+Action delete_file executed on /Users/fabin/Library/Mobile Documents/com~apple~CloudDocs/Python/udemy Srednio zaawansowany/delete_file.txt on 2023-02-26 21:55:30
+Action delete_file executed on /Users/fabin/Library/Mobile Documents/com~apple~CloudDocs/Python/udemy Srednio zaawansowany/delete_file.txt on 2023-02-26 21:55:30

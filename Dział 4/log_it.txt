@@ -1,0 +1,8 @@
+Starting processing forecasting
+log1
+log2
+log3
+Error
+Not enough data
+invoices
+2020
