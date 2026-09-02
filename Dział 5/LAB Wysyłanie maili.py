@@ -9,11 +9,11 @@ smtp_server = "smtp.gmail.com"
 
 
 # Definiujemy dane: nazwa, mail z którego wysyłamy, hasło do poczty, temat i do kogo chcemy wysłać
-mailFrom = "Maciej Fabiński"
-user = 'maciejfabinski@gmail.com'
-password = 'bovwxoxglprvppzb'
+mailFrom = "Maciej"
+user = 'maciej@gmail.com'
+password = 'bovwxoxg'
 mailSubject = "HTML mail test"
-mailTo = ['maciejfabinski@gmail.com']
+mailTo = ['maciej@gmail.com']
 
 
 # Treść HTML wiadomości - ją się dodaje jest tak jakby osobno. Jeśli piszemy bez html to przy dodawaniu treści trzeba wpisać .attacht(MIMEText(mailBody, "plain"))
